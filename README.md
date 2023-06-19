@@ -1,8 +1,8 @@
 
 # Who am I ?
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahshdhfh%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                 
 ### Introduction
-안녕하세요. 개발자 이민수입니다. !!<br/>
+안녕하세요. 이민수입니다. <br/>
 
 ### Profile
 Name : 이민수 (Leeminsu) <br/>
