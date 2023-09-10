@@ -23,7 +23,7 @@ Email : ooori100@naver.com <br/>
 
 
 ### Tools & Collaborations
-- `eclipse`
+- `eclipse`, `IntelliJ`
 - `Git`, `GitHub`
 - `Notion`
 
